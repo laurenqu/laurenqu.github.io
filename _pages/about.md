@@ -18,4 +18,4 @@ Statistics
 ======
 Research Interest: Multivariate Analysis
 
-My cv(pdf) can be find  [here](https://leonequ.github.io/files/example.pdf).
+My cv(pdf) can be find  [here](https://leonequ.github.io/files/cv_leone_QU_phd.pdf).

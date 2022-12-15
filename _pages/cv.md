@@ -61,4 +61,3 @@ Skills
 Service and leadership
 ======
 * Co-Chairman for Nihongo Volunteer Activities Club, 2019-2021
-![image](https://user-images.githubusercontent.com/120612840/207855083-912a9c4f-c0ee-47bb-ba20-236e5608e8b5.png)

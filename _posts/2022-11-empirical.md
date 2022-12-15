@@ -1,5 +1,5 @@
 ---
-title: 'Independent Empirical Research'
+title: 'Empirical Research'
 date: 2022-11-30
 permalink: /posts/2022/11/empirical/
 tags:

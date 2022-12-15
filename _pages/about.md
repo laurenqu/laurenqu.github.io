@@ -21,4 +21,4 @@ Field: Applied Statistics
 
 My cv(pdf) can be find  [here](https://leonequ.github.io/files/cv_leone_QU_phd.pdf).
 
-Disclaimer: I am a TRPG player. 
+Disclaimer: I was a TRPG player. 

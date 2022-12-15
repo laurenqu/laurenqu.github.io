@@ -16,7 +16,7 @@ Education
 
 Research experience
 ======
-* Research Assistant for Professor Nguyen Giang} [Personal Websitse](https://giangnguyen.org/), 03/2022 - 12/2022
+* Research Assistant for Professor Nguyen Giang [Personal Websitse](https://giangnguyen.org/), 03/2022 - 12/2022
   * Independently found trustable resources to collect characteristics data and key variables. Replicated variable construction codes in papers for model estimation, provided data cleansing and statistical data analysis including visualization. Supported preparation of empirical results for the manuscript and proofreading of theoretical frameworks. 
  
 * Computational Economics: Deferred Acceptance with Random Separation and Local Search, 12/2022
@@ -27,7 +27,7 @@ Research experience
 
  
 * Empirical Research:  Digitalization Spillover Impacts on Japan's Prefectures, 11/2022 
-  * Based on Japan's prefecture panel data in 2011-2019, constructed digitalization extent index by Principal Component Analysis, and built digitalization spillover effect index by Directed Arrow Graphs. Estimated digitalization development spillover effects on the economy by Ordinary Linear Regression with year and district fixed effects, explained population and industrial structure mechanisms, and provided extensible policy implications.  
+  * Based on Japan's prefecture panel data in 2011-2019, constructed digitalization extent index by Principal Component Analysis (PCA), and built digitalization spillover effect index by Directed Arrow Graphs (DAGs). Estimated digitalization development spillover effects on the economy by Ordinary Linear Regression (OLS) with year and district fixed effects, explained population and industrial structure mechanisms, and provided extensible policy implications.  
 
 
 * Time Series Analysis: ARMA Model Selection and Impulse Response Analysis, 11/2021

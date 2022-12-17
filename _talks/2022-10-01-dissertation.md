@@ -5,7 +5,7 @@ type: "theory"
 permalink: /talks/dissertation
 date: 2022-12-15
 ---
-## story
+## Optimal divorce cost: a commitment device but a barrier at the beginning?
 
 Divorce cost comes as a double-edged sword with respect to investment: a high divorce cost retains relationship-specific investments. However, too high a divorce cost hinders entry into marriage at the first step, as people are still risk-averse and would like to avoid the bad love shock. Similarly, a low divorce cost lower the exit barrier of marriage, which may increase divorce and the accompanied investment loss. Conversely, a low divorce cost may also encourage marriage strategic investment in marriage-specific capital to partially offset the incomplete enforcement of marriage contracts.
 

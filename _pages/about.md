@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Brief Introduction"
-excerpt: "About me"
+excerpt: "Lingyun QU"
 author_profile: true
 redirect_from: 
   - /about/

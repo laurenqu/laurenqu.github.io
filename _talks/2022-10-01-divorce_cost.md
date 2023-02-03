@@ -2,7 +2,7 @@
 title: "Dissertation"
 collection: talks
 type: "theory"
-permalink: /talks/dissertation
+permalink: /talks/divorce_cost
 date: 2022-10-01
 ---
 ## Optimal divorce cost: a commitment device but a barrier at the beginning?

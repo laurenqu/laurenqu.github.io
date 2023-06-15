@@ -12,8 +12,8 @@ I am a 4th year undergraduate majoring in Economics and Statistics.
 Economics
 ======
 Research interest: 
-Search theory, Macro-level matching and resource allocation
-Market Design
+- Search theory, Macro-level matching and resource allocation
+- Market Design
 
 Field: Macroeconomics, Computational Economics 
 

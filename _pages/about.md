@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Brief Introduction"
+title: "Lingyun QU"
 excerpt: "Lingyun QU"
 author_profile: true
 redirect_from: 

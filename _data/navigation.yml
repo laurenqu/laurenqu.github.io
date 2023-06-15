@@ -18,6 +18,8 @@ main:
     url: /talks/    
     
   - title: "CV"
+    url:/files/LingyunQU_cv_0615.pdf
+  - title: "CV"
     url: /cv/
     
  # - title: "Guide"

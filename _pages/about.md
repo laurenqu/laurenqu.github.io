@@ -11,16 +11,16 @@ I am a 4th year undergraduate majoring in Economics and Statistics.
 
 Economics
 ======
-Research interest: Matching theory, Market Design
+Research interest: 
+- Search theory, Macro-level matching and resource allocation
+- Market Design
 
-Field: Microeconomics, Computational Economics 
+Field: Macroeconomics, Computational Economics 
 
 Statistics
 ======
 Research Interest: Multivariate Analysis, Data Visualization
 
 Field: Applied Statistics
-
-My cv(pdf) can be found [here](https://leonequ.github.io/files/cv_leone_QU_phd.pdf).
 
 Disclaimer: I was a TRPG player. 

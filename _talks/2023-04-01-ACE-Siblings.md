@@ -31,19 +31,26 @@ Although qualitative findings from psychology literature suggest that siblings c
 
 ### Research plan 
 The analyses described here are based on data from the National Longitudinal Study of Adolescent Health (Add Health) is a school-based, longitudinal study of the health-related behaviors of adolescents and their outcomes in young adulthood. The study used a clustered sampling design in which first schools, and then students within schools, were sampled. A broader battery of questionnaires for parents, siblings, fellow students, and school administrators was administered for this longitudinal sample in between April 1995 and December of 1995 (Wave 1), which was followed up with6 waves of in-home interviews with average time lag of 4 years, most recently in 2016-2018.
+
+
 There are four kinds of individuals in the dataset: individuals with ACEs & not with sibling ACEs, with ACEs & with sibling ACEs, without ACEs & with sibling ACEs, without ACEs & without sibling ACEs. This research only uses the latter two groups, excluding the second group to eliminate the impact of personal ACEs. The group without ACEs & without sibling ACEs is regarded as the control group. 
 The research plan to run the following regression:
+
+
 $$
-Y_(i,t)=\alpha+\beta SiblingACEs_i*WorkExperience_{(i,t)}+X_{(i,t)}+δ_t+θ_i+ε
+Y_{i,t}=\alpha+\beta SiblingACEs_i*WorkExperience_{i,t}+X_{i,t}+δ_t+θ_i+ε
 $$
+
+
 As the sibling ACEs is an event that happens at some time spot in the individual life span, it is useful to multiply the sibling ACEs to the work experience of the individual, to convert the 0/1 binary variable to a continuous variable that can be applied to linear regression. 
 
 
-β is the coefficient of interest that captures the influence of ACEs to Y. It is assumed that with sibling ACE, the influence of work experience on Y is different. Mathematically, β can be interpreted as the second-order derivative of Y to ACE and to sibling. As the sibling ACEs is an event that happens at some time spot in the individual life span, it is useful to multiply the sibling ACEs to the work experience of the individual, to convert the 0/1 binary variable to a continuous variable, to which linear regression can be applied.
-Y denotes the human capital outcome for individual i in year t, is either a binary variable for having a high school diploma or higher education, having a Bachelor's degree or higher, currently employed full-time; or earnings level.
+ $$Y$$ denotes the human capital outcome for individual  $$i$$ in year  $$t$$, is either a binary variable for having a high school diploma or higher education, having a Bachelor's degree or higher, currently employed full-time; or earnings level.$$\beta$$ is the coefficient of interest that captures the influence of ACEs to Y. It is assumed that with sibling ACE, the influence of work experience on $$Y$$ is different. Mathematically, $$\beta$$ can be interpreted as the second-order derivative of $$Y$$ to ACE and to sibling. As the sibling ACEs is an event that happens at some time spot in the individual life span, it is useful to multiply the sibling ACEs to the work experience of the individual, to convert the 0/1 binary variable to a continuous variable, to which linear regression can be applied.
 
 
-$$X_{(i,t)}$$ are control variables. Following unadjusted regression of outcomes on sibling ACEs, this research intends to add several adjustments. The first adjustment adds demographics (age and sex reported when outcomes were measured in Wave IV, race/ethnicity reported in Wave I). The second adjustment adds controls for childhood household SES (highest parental education level and log household income reported in Wave I), the third adjustment adds control for childhood physical disability reported in Wave I.
+
+
+$$X_{i,t}$$ are control variables. Following unadjusted regression of outcomes on sibling ACEs, this research intends to add several adjustments. The first adjustment adds demographics (age and sex reported when outcomes were measured in Wave IV, race/ethnicity reported in Wave I). The second adjustment adds controls for childhood household SES (highest parental education level and log household income reported in Wave I), the third adjustment adds control for childhood physical disability reported in Wave I.
 θ_i is the individual fixed effect, $$ δ_t $$ is the time fixed effect and ε is the error term.
 
 

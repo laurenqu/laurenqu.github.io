@@ -2,7 +2,7 @@
 title: "The lasting consequences of sibling’s adverse childhood experiences (ACEs) on human capital accumulation and economic well-being "
 collection: talks
 type: "empirical"
-permalink: /talks/ACEs_sibling
+permalink: /talks/ACEs-sibling
 date: 2023-04-01
 ---
 

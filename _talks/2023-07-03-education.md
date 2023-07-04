@@ -3,7 +3,7 @@ title: "Economics of Education"
 collection: talks
 type: "Book"
 permalink: /talks/education
-date: 2022-12-15
+date: 2023-07-04
 ---
 
 

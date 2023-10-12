@@ -24,8 +24,8 @@ DIY：实习段数（linkedin）、GPA（寄托、一亩三分地等论坛）、
 
 
 参考文献：
-https://eric.ed.gov/?id=ED607806用机器学习（SVM）评估CS领域master的录取，自变量GPA、本科学校排名、GRE、托福，因变量MS GPA
-https://scholarworks.wmich.edu/ojot/vol2/iss3/6/研究了职业治疗（OT）领域master的录取标准和实地工作表现的关系，自变量GRE和GPA，因变量现场工作绩效评估（FWPE）
+https://eric.ed.gov/?id=ED607806用机器学习（SVM）评估CS领域master的录取，自变量GPA、本科学校排名、GRE、托福，因变量MS GPA；
+https://scholarworks.wmich.edu/ojot/vol2/iss3/6/研究了职业治疗（OT）领域master的录取标准和实地工作表现的关系，自变量GRE和GPA，因变量现场工作绩效评估（FWPE）；
 https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2504只使用了gpa，gre，学校排名等量化指标，舍弃了sop，发表，awards的数据（sop用了一大堆方法处理，但实际影响程度很小），outcome是admission/reject
 
 

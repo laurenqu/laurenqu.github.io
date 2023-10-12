@@ -3,7 +3,7 @@ title: "中国学生在申请经济学master过程中中介的作用"
 collection: talks
 type: "empirical"
 permalink: /talks/admission
-date: 2022-10-01
+date: 2023-10-12
 ---
 
 研究题目：中国学生在申请经济学master过程中中介的作用
@@ -13,6 +13,9 @@ date: 2022-10-01
 数据来源【待考】：
 DIY：实习段数（linkedin）、GPA（寄托、一亩三分地等论坛）、推荐信强度（采访）、发表（采访）
 中介：中介数据库
+
+理论模型：
+基于 job search 理论的 数理模型构建，有agent 和 无 agent
 
 数据量化方式：
 发表：Sigma 发布文章数量 * 所在期刊影响因子
@@ -31,4 +34,3 @@ https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2504只使用�
 （1）	Linkedin只有实习经历，缺少GPA、GRE等硬指标；而报告自己GPA、GRE等硬指标的论坛使用者多为匿名，两个平台的数据无法一一对应
 （2）	小红书等同时具备GRE、GPA、实习、科研的论坛缺少申请outcome，需要长期跟踪观察
 
-![image](https://github.com/lingyunqu/lingyunqu.github.io/assets/121205164/983ebfd5-fb56-45f9-a914-fc2b794c5ea1)

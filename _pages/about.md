@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Economics student at University of Chicago, MAPSS.
+I am a Economics student in Master of Arts Program in Social Science at University of Chicago.
 
 Economics
 ======

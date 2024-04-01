@@ -7,19 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 4th year undergraduate majoring in Economics and Statistics. 
+I am a Economics student at University of Chicago, MAPSS.
 
 Economics
 ======
 Research interest: 
-- Search theory, Macro-level matching and resource allocation
-- Market Design
+- Macro-level search & match, unemployment, efficient allocation
+- Causal inference in labor economics
 
-Field: Macroeconomics, Computational Economics 
+Field: Macroeconomics, Labor Economics, Computational Economics 
 
 Statistics
 ======
-Research Interest: Multivariate Analysis, Data Visualization
+Research Interest: 
+- Causal inference
+- Machine learning
+- Data visualization
 
 Field: Applied Statistics
 

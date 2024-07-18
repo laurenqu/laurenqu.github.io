@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lauren Lingyun QU"
+title                    : "Lauren QU"
 title_separator          : "-"
-name                     : &name "Lauren Lingyun QU"
+name                     : &name "Lauren QU"
 description              : &description "Student in Economics, Operation Research and Computer Science"
 url                      : https://laurenqu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

@@ -1,21 +1,21 @@
 ---
 permalink: /
-title: "Lingyun QU"
-excerpt: "Lingyun QU"
+title: "Lauren QU"
+excerpt: "Lauren QU"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a Economics student in Master of Arts Program in Social Science at University of Chicago.
+I am a student in the Master of Arts Program in Social Science (MACPSS-econ) at the University of Chicago, class of 2024. Additionally, I am enrolled in the Online Master of Science in Computer Science (OMSCS) and Master of Science in Operations Research (MSOR) programs at Georgia Tech. I hold a B.A. in Economics from Waseda University and a B.A. in Statistics from Korea University.
 
 Economics
 ======
-Research interest: 
-- Macro-level search & match, unemployment, efficient allocation
+Research interests: 
+- Macroeconomics: unemployment, search & match model
 - Causal inference in labor economics
 
-Field: Macroeconomics, Labor Economics, Computational Economics 
+Fields: Macroeconomics, Labor Economics
 
 Statistics
 ======

@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lingyun QU"
+title                    : "Lauren Lingyun QU"
 title_separator          : "-"
-name                     : &name "Lingyun QU"
-description              : &description "Student in Econoics"
-url                      : https://lingyunqu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Lauren Lingyun QU"
+description              : &description "Student in Economics, Operation Research and Computer Science"
+url                      : https://laurenqu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lingyunqu.github.io"
 teaser                   :  500x300.png

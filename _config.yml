@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Lauren QU"
 title_separator          : "-"
-name                     : &name "Lauren QU"
+name                     : &name "Lauren Lingyun QU"
 description              : &description "Student in Economics, Operation Research and Computer Science"
 url                      : https://laurenqu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lingyunqu.github.io"
+repository               : "laurenqu.github.io"
 teaser                   :  500x300.png
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

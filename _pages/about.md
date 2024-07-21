@@ -1,13 +1,13 @@
 ---
 permalink: /
 title: "Lauren QU"
-excerpt: "Lauren QU"
+excerpt: "Lauren Lingyun QU"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a student in the Master of Arts Program in Social Science (MACPSS-econ) at the University of Chicago, class of 2024. Additionally, I am enrolled in the Online Master of Science in Computer Science (OMSCS) and Master of Science in Operations Research (MSOR) programs at Georgia Tech. I hold a B.A. in Economics from Waseda University and a B.A. in Statistics from Korea University.
+I am a student in the Master of Arts Program in Social Science (MAPSS-econ) at the University of Chicago, class of 2024. Additionally, I am enrolled in the Online Master of Science in Computer Science (OMSCS) and Master of Science in Operations Research (MSOR) programs at Georgia Tech. I hold a B.A. in Economics from Waseda University and a B.A. in Statistics from Korea University.
 
 Economics
 ======

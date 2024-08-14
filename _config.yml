@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lauren QU"
 title_separator          : "-"
 name                     : &name "Lauren Lingyun QU"
-description              : &description "Student in Economics, Operation Research and Computer Science"
+description              : &description "Student in Economics, Computer Science and Operation Research"
 url                      : https://laurenqu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "laurenqu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lauren QU"
   avatar           : "profile.png"
-  bio              : irrational Economics student
+  bio              : Irrational Economics Student
   location         : "Chicago, US"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   #instagram        :
   #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  #linkedin         :
+  linkedin         : https://www.linkedin.com/in/lauren-qu-6966a6256/
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

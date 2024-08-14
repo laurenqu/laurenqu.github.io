@@ -5,10 +5,9 @@ type: "empirical"
 permalink: /talks/ACEs-sibling
 date: 2023-04-01
 ---
+Relationship between sibling's adverse childhood experiences (ACEs) and agent's outcome
 
-## Relationship between sibling's adverse childhood experiences (ACEs) and agent's outcome
 
-### Introduction
 Adverse childhood experiences (ACEs) have a significant impact on individual’s quality of life, affecting their health and economic well-being. ACEs have been associated with health consequences including physical and psychological conditions, risk behaviors, developmental disruption, and increased healthcare utilization. In the US, 1 in 6 adults experienced four or more types of ACEs, and at least 5 of the top 10 leading causes of death are associated with ACEs (Centers for Disease Control and Prevention, 2021). 
 
 

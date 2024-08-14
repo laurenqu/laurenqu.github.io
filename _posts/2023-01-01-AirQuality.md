@@ -6,7 +6,7 @@ tags:
   - statistics
   - time series
 ---
-In this paper, I construct several models with ARIMA and regression to explore the effect of meteorological variables on pollutant concentrations.
+In this paper, I construct several models with ARIMA, GARCH and regression to explore the effect of meteorological variables on pollutant concentrations.
 
 [fullwork](https://github.com/laurenqu/laurenqu.github.io/blob/master/files/AirQuality.pdf)
 

@@ -6,7 +6,7 @@ permalink: /talks/divorce_cost
 date: 2022-10-01
 ---
 
-Optimal divorce cost: a commitment device but a barrier at the beginning
+Optimal divorce cost: a commitment device at the end but a barrier at the beginning
 
 
 

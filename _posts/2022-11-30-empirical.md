@@ -1,5 +1,5 @@
 ---
-title: 'Empirical Research'
+title: 'Does Digitalization Spillover Negatively Influence the Economy? Empirical Evidence from Japan'
 date: 2022-11-30
 permalink: /posts/2022/11/empirical/
 tags:
@@ -7,8 +7,10 @@ tags:
   - Japan
   - digitalization
 ---
-###  Abstract
-Digitalization has long been regarded as a driving force and engine for the promotion of countries’ regional and national economy. However, in countries where regional inequalities of digitalization development prevail, the impact of the spillover effect is worth discussing. Based on prefectural panel data of Japan from 2011 to 2019, this paper utilizes the Principal Component Analysis (PCA) method for constructing the digitalization development index and Directed Acyclic Graphs (DAGs) for measuring the direction of digitalization spillover effects, I empirically investigate impacts of digitalization development and digitalization spillover on economic performance. The results from OLS regressions with fixed effects show that in general, digitalization development positively influences the overall prefectural economic behavior, but the spillover effect negatively impacts overall production and production per capita. Population aging and geographical closeness to countries with advanced digitalization such as China and South Korea worsen the negative influences of the spillover effect, but entertainment and life-related service industry development mitigate instead. Therefore, policies on digitalization development should take into account local realities and coordinate with the prefecture’s industrial structure, population characteristics, and geographical location to improve economic performance.
+This paper investigates impacts of digitalization development and digitalization spillover on economic performance, using PCA and OLS regression with fixed effects. Results from OLS regressions with fixed effects show that in general, digitalization development positively influences the overall prefectural economic behavior, but the spillover effect negatively impacts overall production and production per capita. Population aging and geographical closeness to countries with advanced digitalization worsen the negative influences of the spillover effect, but entertainment and life-related service industry development mitigate instead.[Fullwork](https://laurenqu.github.io/files/Digitalization.pdf) [codes](https://github.com/laurenqu/empirical-digitalization)
 
-[fullwork](https://laurenqu.github.io/files/Digitalization.pdf)
-[codes](https://github.com/laurenqu/empirical-digitalization)
+
+Digitalization has long been regarded as a driving force and engine for the promotion of countries’ regional and national economy. However, in countries where regional inequalities of digitalization development prevail, the impact of the spillover effect is worth discussing. Based on prefectural panel data of Japan from 2011 to 2019, this paper utilizes the Principal Component Analysis (PCA) method for constructing the digitalization development index and Directed Acyclic Graphs (DAGs) for measuring the direction of digitalization spillover effects, we empirically investigate impacts of digitalization development and digitalization spillover on economic performance. The results from OLS regressions with fixed effects show that in general, digitalization development positively influences the overall prefectural economic behavior, but the spillover effect negatively impacts overall production and production per capita. Population aging and geographical closeness to countries with advanced digitalization such as China and South Korea worsen the negative influences of the spillover effect, but entertainment and life-related service industry development mitigate instead. Therefore, policies on digitalization development should take into account local realities and coordinate with the prefecture’s industrial structure, population characteristics, and geographical location to improve economic performance.
+
+
+

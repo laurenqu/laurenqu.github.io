@@ -9,6 +9,7 @@ tags:
 ---
 
 This paper constructed regression models on exchange rate prediction and conducted predicting process with different combinations of regressors. 
+
 [fullwork](https://laurenqu.github.io/files/final_report_2020150363_QU.pdf)
 
 

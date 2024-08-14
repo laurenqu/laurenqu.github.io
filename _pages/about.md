@@ -17,10 +17,8 @@ Economics
 ======
 Research interests: 
 - Macroeconomics: unemployment, search & match model
-- Labor economics: educational economics
+- Labor Economics: educational economics
 - Family Economics: marriage and divorce
-
-Fields: Macroeconomics, Labor Economics
 
 Statistics
 ======

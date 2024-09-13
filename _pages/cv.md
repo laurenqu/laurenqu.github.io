@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[pdf](https://github.com/laurenqu/laurenqu.github.io/blob/master/files/cv_0912.pdf)
+[pdf](https://github.com/laurenqu/laurenqu.github.io/files/cv_0902.pdf)

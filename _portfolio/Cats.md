@@ -28,7 +28,7 @@ The first image [Figure 1] shows **Cat 2** immediately after a grooming session,
 
 ### Figure 2
 
-![Cat 2]<br/><img src='images/cat2.jpg' width="300">
+![Cat 2]<br/><img src='/images/cat2.jpg' width="300">
 
 *Figure 3: Cat 2 after a grooming session, with visible fur and tools.*
 

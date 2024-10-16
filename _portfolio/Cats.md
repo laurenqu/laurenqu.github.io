@@ -4,7 +4,6 @@ collection: portfolio
 ---
 
 
-# Observational Study of Cat Grooming and Behavior
 
 ## Introduction
 

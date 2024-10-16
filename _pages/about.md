@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a student in the Master of Arts Program in Social Science (MAPSS-econ) at the University of Chicago, class of 2024. 
+I am a student in the Master of Arts Program in Social Science (MAPSS-econ) at the University of Chicago, class of 2025. 
 
 Additionally, I am enrolled in the Online Master of Science in Computer Science (OMSCS).
 

@@ -28,4 +28,4 @@ Research Interest:
 
 Field: Applied Statistics
 
-Disclaimer: I was a TRPG player. 
+Disclaimer: I was a TRPG player. I have two cats named Cat 1 and Cat 2 (graphs available [here]()).

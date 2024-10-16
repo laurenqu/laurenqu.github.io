@@ -14,7 +14,7 @@ This section presents an observation of two domestic cats during and after a gro
 
 ## Observation of Cat 1
 
-The second image [Figure 1] displays **Cat 1** resting comfortably on the floor, before the grooming session. **Cat 1** shows a calm and relaxed demeanor, indicating satisfaction with its environment.
+The second image displays **Cat 1** resting comfortably on the floor, before the grooming session. **Cat 1** shows a calm and relaxed demeanor, indicating satisfaction with its environment.
 
 ### Figure 2
 
@@ -24,7 +24,7 @@ The second image [Figure 1] displays **Cat 1** resting comfortably on the floor,
 
 ## Observation of Cat 2
 
-The first image [Figure 1] shows **Cat 2** immediately after a grooming session, with visible fur collected on the floor. The grooming tools are present, and **Cat 2** appears cautious, possibly indicating mild discomfort following the grooming process.
+The third image shows **Cat 2** immediately after a grooming session, with visible fur collected on the floor. The grooming tools are present, and **Cat 2** appears cautious, possibly indicating mild discomfort following the grooming process.
 
 ### Figure 3
 

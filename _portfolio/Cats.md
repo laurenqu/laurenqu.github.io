@@ -9,16 +9,17 @@ collection: portfolio
 
 ## Introduction
 
-This section presents an observation of two domestic cats during and after a grooming session. **Cat 1** and **Cat 2** are analyzed based on their post-grooming behavior and posture. <br/><img src='/files/7491729111491_.pic.jpg'>
+This section presents an observation of two domestic cats during and after a grooming session. **Cat 1** and **Cat 2** are analyzed based on their pre- and post-grooming behavior and posture. <br/><img src='/files/7491729111491_.pic.jpg'>
+*Figure 1: Cat 1 (front) and Cat 2 (back) before a grooming session.*
 
 ## Observation of Cat 1
 
-The second image [Figure 2] displays **Cat 1** resting comfortably on the floor. **Cat 1** shows a calm and relaxed demeanor, indicating satisfaction with its environment.
+The second image [Figure 1] displays **Cat 1** resting comfortably on the floor, before the grooming session. **Cat 1** shows a calm and relaxed demeanor, indicating satisfaction with its environment.
 
 ### Figure 1
 
-![Cat 1](../mnt/data/7501729111711_.pic.jpg)
-*Figure 1: Cat 1 resting calmly on the floor after grooming.*
+![Cat 1]<br/><img src='/images/cat1.jpg'>
+*Figure 2: Cat 1 resting calmly on the floor after grooming.*
 
 ## Observation of Cat 2
 
@@ -26,14 +27,13 @@ The first image [Figure 1] shows **Cat 2** immediately after a grooming session,
 
 ### Figure 2
 
-![Cat 2](../mnt/data/7471729111488_.pic.jpg)
-*Figure 2: Cat 2 after a grooming session, with visible fur and tools.*
+![Cat 2]<br/><img src='images/cat2.jpg'>
+*Figure 3: Cat 2 after a grooming session, with visible fur and tools.*
 
 In this image, **Cat 2** exhibits a tense posture, likely due to the grooming activity, which is a common behavior in cats who may find grooming stressful.
 
 
 
-**Cat 1**’s body language reflects a state of relaxation, suggesting that it has recovered well from the grooming process and feels at ease.
 
 ## Conclusion
 

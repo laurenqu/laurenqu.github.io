@@ -19,8 +19,8 @@ main:
   - title: "CV"
     url: /files/Lauren resume_1016.pdf
 
-  #- title: "Public Goods"
-    #url: /portfolio/
+  - title: "Public Goods"
+    url: /portfolio/
     
  # - title: "Guide"
     #url: /markdown/

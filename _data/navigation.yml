@@ -8,8 +8,7 @@ main:
   #- title: "Teaching"
     #url: /teaching/    
     
-  #- title: "Portfolio"
-    #url: /portfolio/
+
         
   - title: "Archive"
     url: /year-archive/
@@ -20,6 +19,8 @@ main:
   - title: "CV"
     url: /files/cv_0815.pdf
 
+  #- title: "Public Goods"
+    #url: /portfolio/
     
  # - title: "Guide"
     #url: /markdown/

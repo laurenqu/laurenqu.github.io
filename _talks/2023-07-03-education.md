@@ -7,7 +7,7 @@ date: 2023-07-04
 ---
 
 
-Economics of Education by Michael Lovenheim and Sarah Turner
+Reading Economics of Education by Michael Lovenheim and Sarah Turner
 
 ## Education policies
 1. Total resource policies increase the total amount of funding to a school or to individuals making education decisions. (eg:  increasing the total amount of funding available to schools; giving money to parents or students)

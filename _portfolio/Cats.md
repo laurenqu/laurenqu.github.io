@@ -23,6 +23,9 @@ The second image displays **Cat 1** resting comfortably on the floor, before the
 
 *Figure 2: Cat 1 resting calmly on the floor before grooming.*
 
+Cat 1's posture and relaxed demeanor suggest that she is unaware of the impending grooming session. This lack of anticipation can be interpreted as an external shock, as the grooming experience is introduced without any forewarning. Such unexpected interventions may influence her behavior and stress levels, making this an interesting case to explore the impact of unexpected grooming on a cat's well-being.
+
+
 ## Observation of Cat 2
 
 The third image shows **Cat 2** immediately after a grooming session, with visible fur collected on the floor. The grooming tools are present, and **Cat 2** appears cautious, possibly indicating mild discomfort following the grooming process.

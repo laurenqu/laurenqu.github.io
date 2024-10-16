@@ -8,7 +8,7 @@ collection: portfolio
 ## Introduction
 
 This section presents an observation of two domestic cats during and after a grooming session. **Cat 1** and **Cat 2** are analyzed based on their pre- and post-grooming behavior and posture. 
-<br/><img src='/files/7491729111491_.pic.jpg' width="300">
+[Cat2]<br/><img src='/files/7491729111491_.pic.jpg' width="300">
 
 *Figure 1: Cat 1 (front) and Cat 2 (back) before a grooming session.*
 
@@ -18,7 +18,7 @@ The second image displays **Cat 1** resting comfortably on the floor, before the
 
 ### Figure 2
 
-<br/><img src='/images/cat1.jpg' width="300">
+[Cat1]<br/><img src='/images/cat1.jpg' width="300">
 
 *Figure 2: Cat 1 resting calmly on the floor before grooming.*
 

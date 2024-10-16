@@ -4,7 +4,6 @@ collection: portfolio
 ---
 
 
-
 ## Introduction
 
 This section presents an observation of two domestic cats during and after a grooming session. **Cat 1** and **Cat 2** are analyzed based on their pre- and post-grooming behavior and posture. 

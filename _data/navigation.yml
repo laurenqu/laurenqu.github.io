@@ -22,5 +22,5 @@ main:
   - title: "Public Goods"
     url: /portfolio/
     
-- title: "Miscellaneous"
-    url: /miscellaneous/
+#- title: "Miscellaneous"
+  #  url: /miscellaneous/

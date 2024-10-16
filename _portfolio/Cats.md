@@ -9,7 +9,7 @@ collection: portfolio
 
 ## Introduction
 
-This section presents an observation of two domestic cats during and after a grooming session. **Cat 1** and **Cat 2** are analyzed based on their pre- and post-grooming behavior and posture. <br/><img src='/files/7491729111491_.pic.jpg'>
+This section presents an observation of two domestic cats during and after a grooming session. **Cat 1** and **Cat 2** are analyzed based on their pre- and post-grooming behavior and posture. <br/><img src='/files/7491729111491_.pic.jpg' width="300">
 *Figure 1: Cat 1 (front) and Cat 2 (back) before a grooming session.*
 
 ## Observation of Cat 1
@@ -18,7 +18,7 @@ The second image [Figure 1] displays **Cat 1** resting comfortably on the floor,
 
 ### Figure 1
 
-![Cat 1]<br/><img src='/images/cat1.jpg'>
+![Cat 1]<br/><img src='/images/cat1.jpg' width="300">
 *Figure 2: Cat 1 resting calmly on the floor after grooming.*
 
 ## Observation of Cat 2
@@ -27,7 +27,7 @@ The first image [Figure 1] shows **Cat 2** immediately after a grooming session,
 
 ### Figure 2
 
-![Cat 2]<br/><img src='/images/cat2.jpg'>
+![Cat 2]<br/><img src='images/cat2.jpg' width="300">
 *Figure 3: Cat 2 after a grooming session, with visible fur and tools.*
 
 In this image, **Cat 2** exhibits a tense posture, likely due to the grooming activity, which is a common behavior in cats who may find grooming stressful.

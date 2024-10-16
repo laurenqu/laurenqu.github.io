@@ -28,4 +28,4 @@ Research Interest:
 
 Field: Applied Statistics
 
-Disclaimer: I was a TRPG player. I have two cats named Cat 1 and Cat 2 (graphs available [here]()).
+Disclaimer: I was a TRPG player. I have half of custody two cats named Cat 1 and Cat 2 and one kitty named Wooldridge after the famous econometrician (graphs available [here]()).

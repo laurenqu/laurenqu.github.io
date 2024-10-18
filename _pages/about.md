@@ -28,4 +28,4 @@ Research Interest:
 
 Field: Applied Statistics
 
-Disclaimer: I was a TRPG player. I have ~50% custody of two cats named Cat 1 and Cat 2 and one kitty named Wooldridge after the famous econometrician (graphs available [here](https://laurenqu.github.io/files/Cats.md)).
+Disclaimer: I was a TRPG player. I have ~50% custody of two cats named Cat 1 and Cat 2 and one kitty named Wooldridge after the famous econometrician (notes available [here](https://laurenqu.github.io/portfolio/Cats/)).

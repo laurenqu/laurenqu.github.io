@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Lauren QU"
-excerpt: "Lauren Lingyun QU"
+title: "Lauren QU （曲灵韵）"
+excerpt: "Lauren QU"
 author_profile: true
 redirect_from: 
   - /about/

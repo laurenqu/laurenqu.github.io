@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Lauren QU （曲灵韵/リンユン　キョク/곡령윤）"
-excerpt: "Lauren QU"
+title: "Lauren QU"
+excerpt: " Lauren QU（曲灵韵/リンユン　キョク/곡령윤）"
 author_profile: true
 redirect_from: 
   - /about/

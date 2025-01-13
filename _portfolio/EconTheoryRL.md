@@ -42,20 +42,10 @@ BIC: **conditional** on others report truthfully, reporting truthfully maximizes
 
 
 
-
-
-
-Eso, P. and B. Szentes (2007): “Optimal Information Disclosure in Auctions and the Handicap
-Auction,” Review of Economic Studies, 74, 705-731.
-Gale, D. (1957): “A Theorem on Flows in Networks,” Pacific Journal of Mathematics 7, 1073-
-1082.
-
-
-
 ## Hart, S. and Reny, P.J. (2015): “Implementation of Reduced Form Auctions: A Simple Approach and a New Characterization,” Economic Theory Bulletin, 3, 1–8.
 
 <img width="574" alt="image" src="https://github.com/user-attachments/assets/4405ed25-894a-46a5-8370-68520f49fbf9" />
 
-
+The 3 conditions are equivalent. Introduces 2nd order stochastic dominance.
 
 

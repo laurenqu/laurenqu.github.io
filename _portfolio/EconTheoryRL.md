@@ -17,6 +17,9 @@ Reduced form links bidder's type to probability of winning in the gamble, ignori
 
 Direct form: strategy of bidders. Full form: bid + deciding rule + payment. 
 
+
+<img width="494" alt="image" src="https://github.com/user-attachments/assets/633bb486-b274-4701-97e7-173ad77b7c6d" />
+
 ## Border, K. (2007): “Reduced Form Auctions Revisited,” Economic Theory 31(1), 167-181.
 
 Reduced form needs to satisfy the Maskin-Riley-Matthews-Border (MRM) condition. 
@@ -24,7 +27,21 @@ Reduced form needs to satisfy the Maskin-Riley-Matthews-Border (MRM) condition.
 total expected allocation weight (or winning probability) across all N bidders whose types belong to the subset A <= probability that at least one bidder has a type in A. 
 
 Total winning probability for bidders in A does not exceed the available "allocation capacity" which depends on the likelihood of at least one bidder having a type in A.
+
 This constraint ensures that the auction is feasible and respects the rules of probability and allocation.
+
+## *Manelli, A. and D. Vincent (2010): “Bayesian and Dominant Strategy Implementation in the Independent, Private Values Model,” Econometrica 78(6), 1905-1939.
+
+Under private, independent valuation and linear utility, Bayesian Incentive Compatibility (BIC) mechanism can be achieved by Dominant-Strategy Incentive Compatibility (DSIC) mechanism, generating the same probability of transaction and expected payment.
+
+DSIC: reporting truthfully is **unconditionally** optimal (always better than any other report, no matter how others behave), and Weakly Dominant Strategy Equilibrium.
+
+BIC: **conditional** on others report truthfully, reporting truthfully maximizes agent's expected utility given true value.
+
+## *Moldovanu, B., A. Gershkov, and X. Shi (2011): “Bayesian and Dominant Strategy Implementation Revisited, mimeo, University of Bonn.
+
+
+
 
 
 
@@ -32,3 +49,13 @@ Eso, P. and B. Szentes (2007): “Optimal Information Disclosure in Auctions and
 Auction,” Review of Economic Studies, 74, 705-731.
 Gale, D. (1957): “A Theorem on Flows in Networks,” Pacific Journal of Mathematics 7, 1073-
 1082.
+
+
+
+## Hart, S. and Reny, P.J. (2015): “Implementation of Reduced Form Auctions: A Simple Approach and a New Characterization,” Economic Theory Bulletin, 3, 1–8.
+
+<img width="574" alt="image" src="https://github.com/user-attachments/assets/4405ed25-894a-46a5-8370-68520f49fbf9" />
+
+
+
+

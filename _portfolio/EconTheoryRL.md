@@ -1,6 +1,6 @@
 ---
-title: "Observational Study of Cat Grooming and Behavior"
-excerpt: "The two domestic cats are really named exactly as Cat 1 and Cat 2."
+title: " topics in economic theory reading"
+excerpt: "From Economics 30501 Topics in Economic Theory"
 
 collection: portfolio
 ---

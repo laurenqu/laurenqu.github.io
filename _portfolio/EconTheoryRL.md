@@ -11,4 +11,8 @@ collection: portfolio
 Proved that Groves Mechanism under monotonic preference and separable utility is the ONLY mechanism that can satisfy incentive compatibility and reaches pareto optimum. Show that well-defined mechanisms which select Pareto optimal outcomes (referred to as satisfactory mechanisms), independently of the question of truthful revelation, are  isomorphic to the mechanisms proposed by Groves (solution sets are the same solution to the same equation).
 
 
-## 
+## Implementation of Reduced Form Auctions: A Geometric Approach
+
+Reduced form links bidder's type to probability of winning in the gamble, ignoring the details of the auction (order, bid, etc). 
+
+Direct form: strategy of bidders. Full form: bid + deciding rule + payment. 

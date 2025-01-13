@@ -22,7 +22,7 @@ Direct form: strategy of bidders. Full form: bid + deciding rule + payment.
 
 ## Border, K. (2007): “Reduced Form Auctions Revisited,” Economic Theory 31(1), 167-181.
 
-Reduced form needs to satisfy the Maskin-Riley-Matthews-Border (MRM) condition. 
+If P is a reduced form, then it satisfies the MRM (Maskin-Riley-Matthews-Border) condition.
 
 total expected allocation weight (or winning probability) across all N bidders whose types belong to the subset A <= probability that at least one bidder has a type in A. 
 

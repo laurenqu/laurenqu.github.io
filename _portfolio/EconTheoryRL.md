@@ -26,8 +26,6 @@ Theorem 7 proved something like this result for increasing step functions on the
 > Border, K. (1991): “Implementation of Reduced Form Auctions: A Geometric Approach,” Econometrica 59(4), 1175-1187.
 Proved Mattewss' conjecture for general abstract measure spaces of types, which need not have an order, so the notion of increasing need not be defined.
 
-Introduced one criterion for 
-
 Reduced form links bidder's type to probability of winning in the gamble, ignoring the details of the auction (order, bid, etc). 
 
 Direct form: strategy of bidders. Full form: bid + deciding rule + payment. 

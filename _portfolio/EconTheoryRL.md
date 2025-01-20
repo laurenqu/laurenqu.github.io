@@ -41,7 +41,7 @@ This constraint ensures that the auction is feasible and respects the rules of p
 
 
 > Bayesian Incentive Compatibility (BIC) and Dominant Strategy Incentive Compatibility (DIC)
-> 
+
 ## *Manelli, A. and D. Vincent (2010): “Bayesian and Dominant Strategy Implementation in the Independent, Private Values Model,” Econometrica 78(6), 1905-1939.
 
 Under private, independent valuation and linear utility, BIC mechanism can be achieved by DIC mechanism, generating the same probability of transaction and expected payment.

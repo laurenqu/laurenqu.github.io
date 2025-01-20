@@ -7,15 +7,26 @@ collection: portfolio
 
 # Mechanism Design under Quasi-Linear Preferences
 
-> Green, J. and J.-J. Laffont (1977), Econometrica, Characterization of Satisfactory Mechanisms for the Revelation of Preferences for Public Goods
+> Green, J. and J.-J. Laffont (1977), Characterization of Satisfactory Mechanisms for the Revelation of Preferences for Public Goods, Econometrica
 
 Proved that Groves Mechanism under monotonic preference and separable utility is the ONLY mechanism that can satisfy incentive compatibility and reaches pareto optimum. Show that well-defined mechanisms which select Pareto optimal outcomes (referred to as satisfactory mechanisms), independently of the question of truthful revelation, are  isomorphic to the mechanisms proposed by Groves (solution sets are the same solution to the same equation).
 
 # Reduced Form Implementability
 
-> Border, K. (1991): “Implementation of Reduced Form Auctions: A Geometric Approach,” Econometrica 59(4), 1175-1187.
+Implementability: Given reduced form auction Q (overall prob. that agent of type t gets the object), determine whether there exists an symmetric auction q (prob. of agent i gets the object given others' type)
 
-Introduced one criterion for implementability: Given reduced form auction Q, determine whether there exists an symmetric auction q?
+> Matthews, S.A. (1984), On the implementability of reduced form auctions. Econometrica 52, 1519-22
+
+For i.i.d. environments with symmetric auctions, Matthews (1984) conjectured that the only restriction on for implementability was the necessary condition that the probability that the "winner" had a type in the a subset A could not exceed the probability that there was a bidder with type in A (the MRM condition). 
+
+> Maskin, E.S., Riley, J., (1984), Optimal auctions with risk averse buyers. Econometrica 52, 1473-1518
+
+Theorem 7 proved something like this result for increasing step functions on the unit interval. Their proof is long, tedious, and unintuitive. Matthews extended their result to general increasing functions on the unit interval, and conjectured this form of the theorem. 
+
+> Border, K. (1991): “Implementation of Reduced Form Auctions: A Geometric Approach,” Econometrica 59(4), 1175-1187.
+Proved Mattewss' conjecture for general abstract measure spaces of types, which need not have an order, so the notion of increasing need not be defined.
+
+Introduced one criterion for 
 
 Reduced form links bidder's type to probability of winning in the gamble, ignoring the details of the auction (order, bid, etc). 
 

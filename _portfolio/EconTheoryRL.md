@@ -3,7 +3,7 @@ title: " topics in economic theory reading"
 excerpt: "From Economics 30501 Topics in Economic Theory"
 
 collection: portfolio
-
+---
 
 # Mechanism Design under Quasi-Linear Preferences
 

@@ -1,7 +1,6 @@
 ---
-title: " topics in economic theory reading"
-excerpt: "From Economics 30501 Topics in Economic Theory"
-
+title: " Topics in Theoretical Economics Reading List"
+excerpt: "From Uchicago Economics 30501"
 collection: portfolio
 ---
 

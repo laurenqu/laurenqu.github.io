@@ -1,6 +1,6 @@
 ---
-title: "Common Command When Setting Up Stata on a New Computer for Economists"
-excerpt: "From Uchicago Economics 30501"
+title: "When an Economist Set Up Stata on a New Computer"
+excerpt: "Common Commands"
 collection: portfolio
 ---
 

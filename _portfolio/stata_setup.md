@@ -1,5 +1,5 @@
 ---
-title: "When an Economist Set Up Stata on a New Computer"
+title: "When an Economist Sets Up Stata on a New Computer"
 excerpt: "Common Commands"
 collection: portfolio
 ---

@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: " ECON 11020 Introduction to Econometrics (Teaching Assistant)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2024-fall-econ-11020
+venue: "University of Chicago, Department of Economics"
+date: 10/01/2024 - 12/15/2024
+location: "Chicago, US"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

@@ -34,3 +34,12 @@ This paper provides empirical evidence by introduced a conditional incentive pro
 Girls eligible for two years of incentive are 19 percent less likely to marry underage, comparing the to the traditional empowerment program that fails to decrease child marriage. Importantly, the delay in marriage resulting from the incentive did not lead to an increase in dowry or a decrease in spouse quality, which is regarded as a indicator of no marriage market penalty for delaying by the authors. 
 
 Similar to Wahhaj (2018), the model assumes age acts as a negative signal of bride quality, but for a very different reason: because preferred types (conservative) have lower returns to education and hence gain less from delaying marriage. This rationale also provides explanation of why schooling opportunities and adolescent empowerment programs are less effective, but conditional financial incentive succeeds in delay marriage by disrupting the signal that drives all types toward younger marriage.
+
+
+
+# Divorce
+
+> Padilla‐Romo et al. (JPubE, 2022) [Parents' Effective Time Endowment and Divorce: Evidence from Extended School Days.](https://www.iza.org/publications/dp/15304/parents-effective-time-endowment-and-divorce-evidence-from-extended-school-days) 
+
+This research provides the first causal evidence on the impact of implicit childcare subsidies (longer school days) on marriage dissolution. It examines the effect of access to full-time public schools on divorce rates in Mexico. Using a staggered DID approach, the study analyzes the effect of the expansion of full-time schooling (FTS) programs across various municipalities. The findings show that the introduction of FTS in a municipality led to an increase in the divorce rate by 0.021 divorces per 1,000 people two years after the program's implementation. This effect grew over time, reaching 0.105 divorces per 1,000 people seven years after the program's introduction.
+

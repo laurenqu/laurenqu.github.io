@@ -1,9 +1,6 @@
 ---
 title: "Economics of Education"
-collection: talks
-type: "Book"
-permalink: /talks/education
-date: 2023-07-04
+collection: portfolio
 ---
 
 

@@ -7,9 +7,13 @@ collection: portfolio
 
 > Lafortune et al (AEJAE, 2023) [Collateralized Marriage](https://doi.org/10.1257/app.20210614)
 
-This paper explains the fact that marriage rate is highly stratified by homeownership by introducing access to a joint savings technology as a collateral of marriage. Although unilateral divorce erodes the commitment of marriage, joint asset substitutes for the lost contracting security, as it protects the lower-earning partner, and hence encourages specialization, investment in public goods and marital stability.  
+This paper explains why decline in marriage rate is not universal (highly stratified by homeownership, precisistently high for homeowners/asset holders) by introducing access to a joint savings technology as a collateral of marriage. Although unilateral divorce erodes the commitment of marriage by making divorce easier, and widespread acceptance of nonmarital fertility secures it, joint asset substitutes for the lost contracting security of marriage.
 
-The authors establishe a model in which marriage is with cost $F$ from a random distribution, and joint investment in house as a public good that will be separated 50-50 if a divorce happens.
+The authors establishe a model in which marriage is with cost $F$ from a random distribution, and value of the house (as a public good) that will be separated 50-50 if a divorce happens. The conclusion is that joint investment protects the lower-earning partner, and hence encourages specialization, investment in public goods and marital stability. Also, the value of marriage increases in wealth with increasing gradient. More generally, the model applies to the problem of public good investment with limited commitment. 
+
+Empirically, families who could not buy the house due to high house price specializes less (men work less, women's time reallocated from home production to work with no change in leisure, women's wage being higher). It also implies inequality and poverty, since limited access to wealth results in lower ability to secure investment, which is inhereited by the next generation.
+
+
 
 
 

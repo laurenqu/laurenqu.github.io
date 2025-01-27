@@ -1,6 +1,6 @@
 ---
 title: "Market Design"
-excerpt: "From Uchicago Economics 30501"
+excerpt: ""
 collection: portfolio
 ---
 

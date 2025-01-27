@@ -1,9 +1,22 @@
 ---
-title: "Child Marriage Research"
-excerpt: "Economics Literature about Child Marriage"
+title: "Marriage Research"
+excerpt: "Economics Literature about This Confusing Human Interaction"
 collection: portfolio
 ---
+# Asset in Marriage
 
+> Lafortune et al (AEJAE, 2023) [Collateralized Marriage](https://doi.org/10.1257/app.20210614)
+
+This paper explains the fact that marriage rate is highly stratified by homeownership by introducing access to a joint savings technology as a collateral of marriage. Although unilateral divorce erodes the commitment of marriage, joint asset substitutes for the lost contracting security, as it protects the lower-earning partner, and hence encourages specialization, investment in public goods and marital stability.  
+
+The authors establishe a model in which marriage is with cost $F$ from a random distribution, and joint investment in house as a public good that will be separated 50-50 if a divorce happens.
+
+
+
+
+
+
+# Child Marriage
 
 > Wahhaj (JEBO, 2018) [An Economic Model of Early Marriage](https://www.sciencedirect.com/science/article/pii/S0167268118301562)
 

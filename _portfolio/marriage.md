@@ -3,6 +3,13 @@ title: "Marriage Research"
 excerpt: "Economics Literature about This Confusing Human Interaction"
 collection: portfolio
 ---
+# Qs of Interest:
+
+1. What is the difference between personal mental accounting and family mental accounting?
+2. How does marriage change people's consumption? On what category do each partner changes spending proportion?
+3. Reasons for divorce and empirical evidence?
+
+
 # Asset in Marriage
 
 > Lafortune et al (AEJAE, 2023) [Collateralized Marriage](https://doi.org/10.1257/app.20210614)
@@ -15,6 +22,20 @@ Empirically, families who could not buy the house due to high house price specia
 
 
 # Distribution in Marriage
+
+
+> Browning & Chiappori (1998, ECMA) [Efficient Intra-Household Allocations: A General Characterization and Empirical Tests](https://doi.org/10.2307/2999616)
+
+
+This paper is the foundation of a thread of literature that rejects unitary model (claims that household decisions could be analysed as stemming from a unique, well-behaved utility function). It finds that Slutsky symmetry (the fundamental condition for utility maximization) is rejected for a Canadian sample of couples (but holds for samples of singles). However, this does not mean that family may not be maximizing utility, but suggests that the rejection is due to having the wrong model for couples (irrelevant with choice of functional form, goods, or heterogeneity). 
+
+The most important extension is to allow for distribution factors (environmental variables that may influence the decision process), formally defined as variables which do not enter individual utilities directly but that do affect distribution within the household. The collective model implies that there is a close relationship between the influence of such variables on demand and price responses.
+
+
+> Lundber et al (1997, JHR) [Do Husbands and Wives Pool Their Resources? Evidence from the United Kingdom Child Benefit](https://doi.org/10.2307/146179)
+
+This paper considers the effect of a change in the payment of child benefits in the U.K. in the 1980’s. This change effectively shifted the payment from fathers to mothers without a major impact on household income. In a unitary model, such a shift in “who gets what” should not lead to changes in household decisions (“income pooling”). However, this paper shows that, contrary to the unitary model theory, the policy changes caused significant increases in the demands for children and women’s clothing as compared to men’s clothing.
+
 
 > Bobonis (JPE, 2009) [Is the Allocation of Resources within the Household Efficient? New Evidence from a Randomized Experiment](https://doi.org/10.1086/600076)
 

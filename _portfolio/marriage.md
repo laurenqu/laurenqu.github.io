@@ -14,8 +14,13 @@ The authors establishe a model in which marriage is with cost $F$ from a random 
 Empirically, families who could not buy the house due to high house price specializes less (men work less, women's time reallocated from home production to work with no change in leisure, women's wage being higher). It also implies inequality and poverty, since limited access to wealth results in lower ability to secure investment, which is inhereited by the next generation.
 
 
+# Distribution in Marriage
 
+> Bobonis (JPE, 2009) [Is the Allocation of Resources within the Household Efficient? New Evidence from a Randomized Experiment](https://doi.org/10.1086/600076)
 
+This paper investigates whether whether households make Pareto-efficient intrahousehold resource allocation decisions. By comparing early-entry and late-entry household in Mexico's PROGRESA program, which is a conditional cash transfer program to women in low-income households, and income variation attributable to localized rainfall shocks, the author uses the variables as two distribution factors in a system of household consumption goods demand functions to test these restrictions of the collective model, and the result supports that ratio of distribution factor effects is equal across all public, collective, and individual private goods, which is the evidence of Pareto Efficiency.
+
+Moreover, increases in income specific to female partners have substantial positive effects on expenditure shares in children’s clothing as well as adult female clothing expenditures, while income changes due to rainfall shocks influence expenditures on household public goods to a much lesser extent. It implies that women’s marginal willingness to pay for children’s goods being more sensitive to changes in their decision-making power than that of other decision makers within the household. 
 
 
 

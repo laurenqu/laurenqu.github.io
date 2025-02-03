@@ -6,6 +6,8 @@ collection: portfolio
 
 # Distortion
 
-> Restuccia et al (RED, 2008) [Policy Distortions and Aggregate Productivity with Heterogeneous Establishments](https://doi.org/10.1016/j.red.2008.05.002)
+> Restuccia & Rogerson (RED, 2008) [Policy Distortions and Aggregate Productivity with Heterogeneous Establishments](https://doi.org/10.1016/j.red.2008.05.002)
 
-This paper “we argue that differences in the allocation of resources across establishments that differ in productivity may be an important factor in accounting for cross-country differences in output per capita.” ([Restuccia and Rogerson, 2008, p. 707](zotero://select/library/items/SKILDPP2)) ([pdf](zotero://open-pdf/library/items/YSGQGNRM?page=1&annotation=7N4HLUHD))
+This seminal paper attributes cross-country differences in output per capita to differences in the allocation of resources across establishments. It deviates from the traditional aggregation method that study how aggregate accumulation is affected by difference in aggregation relative price, but raises the importance of allocation across heterogeneous production units - both aggregate relative prices and relative prices faced by different producers matter.
+
+The paper simulated policy that create idiosyncratic distortions (potentially different distortion for each producer), and found that such policies can lead to decreases in output and TFP in the range of 30 to 50 percent, even though the underlying range of available technologies across establishments is the same in all policy configurations.

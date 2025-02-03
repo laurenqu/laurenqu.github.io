@@ -1,5 +1,6 @@
 ---
 title: "(Household) Production and Growth Research"
+excerpt: 
 collection: portfolio
 ---
 

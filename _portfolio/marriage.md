@@ -8,11 +8,12 @@ collection: portfolio
 1. What is the difference between personal mental accounting and family mental accounting?
 2. How does marriage change people's consumption? On what category do each partner changes spending proportion?
 3. Reasons for divorce and empirical evidence?
+4. Reasons for demand for sons? Veryfing hypotheses of Dahl & Moretti (RES, 2008)?
 
 
 # Asset in Marriage
 
-> Lafortune et al (AEJAE, 2023) [Collateralized Marriage](https://doi.org/10.1257/app.20210614)
+> Lafortune et al. (AEJAE, 2023) [Collateralized Marriage](https://doi.org/10.1257/app.20210614)
 
 This paper explains why decline in marriage rate is not universal (highly stratified by homeownership, precisistently high for homeowners/asset holders) by introducing access to a joint savings technology as a collateral of marriage. Although unilateral divorce erodes the commitment of marriage by making divorce easier, and widespread acceptance of nonmarital fertility secures it, joint asset substitutes for the lost contracting security of marriage.
 
@@ -77,6 +78,6 @@ This paper summarized the trends of marriage and divorce of the past 100 years, 
 
 # Children
 
-> Dahl & Moretti, (RES, 2008) [The Demand for Sons](https://econweb.ucsd.edu/~gdahl/papers/demand-for-sons.pdf)
+> Dahl & Moretti (RES, 2008) [The Demand for Sons](https://econweb.ucsd.edu/~gdahl/papers/demand-for-sons.pdf)
 
 This paper finds that child’s gender matters for shotgun marriages. Fathers who find out during pregnancy that their child will be a boy are more likely to marry their partner before delivery than those who find out that their child will be a girl. Also, the number of children is significantly higher in families with a first-born girl. One potential hypothesis is that parents (perhaps fathers in particular) have a preference for living with and spending time with sons over daughters. Another is that unbiased fathers decide to marry their partner if she has boys, not because they prefer boys over girls but because they believe that an absentee father hurts sons more than daughters (role model hypothesis). The third is that fathers have other comparative advantages in raising sons versus daughters (technology hypothesis), or girls cost more to raise in time and money, so that the surplus associated with a potential marriage is larger with sons. 

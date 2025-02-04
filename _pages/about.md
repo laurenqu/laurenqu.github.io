@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Lauren QU"
-excerpt: " Lauren QU（曲灵韵/リンユン　キョク/곡령윤）"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,8 +15,9 @@ I hold a B.A. in Economics from Waseda University and a B.A. in Statistics from 
 Economics
 ======
 Research interests: 
-- Macroeconomics: unemployment, search & match model
-- Labor Economics: educational economics
+- Macroeconomics: heterogeneity, unemployment, search & match model
+- Labor Economics: human capital accumulation, skills, education, gaps
+- Household Finance: behavior change, intra-household distribution
 - Family Economics: marriage and divorce
 
 Statistics
@@ -26,6 +26,5 @@ Research Interest:
 - Causal inference
 - Machine learning
 
-Field: Applied Statistics
 
 Disclaimer: I was a TRPG player. I have ~50% custody of two cats named Cat 1 and Cat 2 and one kitty named Wooldridge after the famous econometrician (notes available [here](https://laurenqu.github.io/portfolio/Cats/)).

@@ -76,6 +76,10 @@ This research provides the first causal evidence on the impact of implicit child
 
 This paper summarized the trends of marriage and divorce of the past 100 years, with analysis about the reasons. It claims that these changes have come about as what is produced in the home has been dramatically altered both by the emergence of labor-saving technology in the home and by the development of service industries that allow much of what was once provided by specialized homemakers to be purchased in the market. Birth control and abortion has affected the potential consequences of sex both in and out of marriage, while changes in divorce laws have altered the terms of the marital bargain. It emphasized that, to remain relevant to the twenty-first century, the economics of the family will need to extend models of the family beyond the notion of a household-based firm and toward emphasizing motivations such as consumption complementarities and insurance as central to marriage.
 
+> Stevenson & Wolfers (QJE, 2006) [Bargaining in the Shadow of the Law: Divorce Laws and Family Distress](https://doi.org/10.1093/qje/121.1.267)
+
+This paper investigates the impact of unilateral divorce law, focusing on “who benefited from this change and by how much”. Event Study is applied to investigate the influence of law adoption on suicide rate, summing up relative time dummies after controlling for state and year fixed effects. DID is applied to study the influence of law on domestic violence. The paper regresses Treatment (if adopted unilateral divorce prior to 1985)*Post on DM, controlling for state, year and individual fixed effects. It finds that total female suicide declined by around 20 percent in the long run (over the 20 years following divorce law reform) in states that adopted unilateral divorce, and DV rates also decreased.
+
 # Children
 
 > Dahl & Moretti (RES, 2008) [The Demand for Sons](https://econweb.ucsd.edu/~gdahl/papers/demand-for-sons.pdf)

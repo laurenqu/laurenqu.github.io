@@ -4,9 +4,8 @@ collection: portfolio
 ---
 
 
-Reading Economics of Education by Michael Lovenheim and Sarah Turner
+>  Lovenheim and Turner, Economics of Education
 
-## Education policies
 1. Total resource policies increase the total amount of funding to a school or to individuals making education decisions. (eg:  increasing the total amount of funding available to schools; giving money to parents or students)
 
 
@@ -32,3 +31,8 @@ The roles of government in the market for education are threefold:
 1. Local and state governments participate in the production of education. They provide education services directly. 
 2. Governments, including legislatures and the judiciary, set the rules of the market through regulations. These regulations can specify the type of education that will be provided, the method of production, prices associated with education services, funding levels, and resource allocation.
 3. The government provides public funding or subsidies to virtually all education markets in the United States.
+
+
+> Lundberg (JLE, 2013) [The College Type: Personality and Educational Inequality](https://doi.org/10.1086/671056)
+
+This paper applies a stratification of family SES to study the effects of cognitive ability and personality traits on college graduation. The paper applies linear probability model that treats personality as a set of unobserved latent traits. Conscientiousness, which has been linked in past research to school success, was found to have no significant impact on the education of disadvantaged men, while openness to experience was an important correlate of college graduation only for less-advantaged men and women. Agreeableness and emotional stability have reasonably consistent positive effects on education for all groups.

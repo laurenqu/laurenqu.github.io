@@ -3,14 +3,15 @@ title: "Topics in Theoretical Economics Reading List"
 excerpt: "From Uchicago Economics 30501"
 collection: portfolio
 ---
+# Mechanism Design
 
-# Mechanism Design under Quasi-Linear Preferences
+## Mechanism Design under Quasi-Linear Preferences
 
 > Green & Laffont (ECMA, 1977), Characterization of Satisfactory Mechanisms for the Revelation of Preferences for Public Goods
 
 Proved that Groves Mechanism under monotonic preference and separable utility is the ONLY mechanism that can satisfy incentive compatibility and reaches pareto optimum. Show that well-defined mechanisms which select Pareto optimal outcomes (referred to as satisfactory mechanisms), independently of the question of truthful revelation, are  isomorphic to the mechanisms proposed by Groves (solution sets are the same solution to the same equation).
 
-# Reduced Form Implementability
+## Reduced Form Implementability
 
 Implementability: Given reduced form auction Q (overall prob. that agent of type t gets the object), determine whether there exists an symmetric auction q (prob. of agent i gets the object given others' type)
 
@@ -49,7 +50,7 @@ Total winning probability for bidders in A does not exceed the available "alloca
 This constraint ensures that the auction is feasible and respects the rules of probability and allocation.
 
 
-# Bayesian Incentive Compatibility (BIC) and Dominant Strategy Incentive Compatibility (DIC)
+## Bayesian Incentive Compatibility (BIC) and Dominant Strategy Incentive Compatibility (DIC)
 
 > *Manelli & Vincent (ECMA, 2010) Bayesian and Dominant Strategy Implementation in the Independent, Private Values Model 
 
@@ -62,6 +63,13 @@ BIC: **conditional** on others report truthfully, reporting truthfully maximizes
 > *Moldovanu et al. (2011) Bayesian and Dominant Strategy Implementation Revisited 
 
 
+# Matching
+
+## Risk
+> Chiappori & Reny (TE, 2016)  [Matching to Share Risk: Matching to Share Risk](https://doi.org/10.3982/TE1914)
+
+The paper proves that, under nontransferable utility, a stable matching always exists, it is generically unique, and it is negatively assortative. It complements the general assumption that utility can be transfered between individuals, but not necessarily at a constant “exchange rate” as implied by TU. 
+The result can be interpreted that, high-skill individuals may be attracted to lowskill individuals and vice versa not only for risk-sharing reasons, but also because specialization makes it possible to avoid counterproductive effort. When selecting a mate, a female must take into account two conflicting considerations. On the one hand, she may prefer a less risk averse partner because he is willing to accept a larger share of the income risk. On the other hand, she may prefer a more risk averse partner because he is willing to accept a smaller amount of joint income as long as it is not too uncertain.
 
 
 

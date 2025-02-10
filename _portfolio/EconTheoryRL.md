@@ -6,7 +6,7 @@ collection: portfolio
 
 # Mechanism Design under Quasi-Linear Preferences
 
-> Green, J. and J.-J. Laffont (1977), Characterization of Satisfactory Mechanisms for the Revelation of Preferences for Public Goods, Econometrica
+> Green & Laffont (ECMA, 1977), Characterization of Satisfactory Mechanisms for the Revelation of Preferences for Public Goods
 
 Proved that Groves Mechanism under monotonic preference and separable utility is the ONLY mechanism that can satisfy incentive compatibility and reaches pareto optimum. Show that well-defined mechanisms which select Pareto optimal outcomes (referred to as satisfactory mechanisms), independently of the question of truthful revelation, are  isomorphic to the mechanisms proposed by Groves (solution sets are the same solution to the same equation).
 
@@ -14,22 +14,23 @@ Proved that Groves Mechanism under monotonic preference and separable utility is
 
 Implementability: Given reduced form auction Q (overall prob. that agent of type t gets the object), determine whether there exists an symmetric auction q (prob. of agent i gets the object given others' type)
 
-> Matthews, S.A. (1984), On the implementability of reduced form auctions. Econometrica 52, 1519-22
+> Matthews (ECMA, 1984) On the implementability of reduced form auctions
 
 For i.i.d. environments with symmetric auctions, Matthews (1984) conjectured that the only restriction on for implementability was the necessary condition that the probability that the "winner" had a type in the a subset A could not exceed the probability that there was a bidder with type in A (the MRM condition). 
 
-> Maskin, E.S., Riley, J., (1984), Optimal auctions with risk averse buyers. Econometrica 52, 1473-1518
+> Maskin & Riley (ECMA, 1984) Optimal auctions with risk averse buyers
 
 Theorem 7 proved something like this result for increasing step functions on the unit interval. Their proof is long, tedious, and unintuitive. Matthews extended their result to general increasing functions on the unit interval, and conjectured this form of the theorem. 
 
-> Border, K. (1991): “Implementation of Reduced Form Auctions: A Geometric Approach,” Econometrica 59(4), 1175-1187.
+> Border  (ECMA, 1991) Implementation of Reduced Form Auctions: A Geometric Approach
+
 Proved Mattewss' conjecture for general abstract measure spaces of types, which need not have an order, so the notion of increasing need not be defined.
 
 Reduced form links bidder's type to probability of winning in the gamble, ignoring the details of the auction (order, bid, etc). 
 
 Direct form: strategy of bidders. Full form: bid + deciding rule + payment. 
 
-> Hart, S. and Reny, P.J. (2015): “Implementation of Reduced Form Auctions: A Simple Approach and a New Characterization,” Economic Theory Bulletin, 3, 1–8.
+> Hart & Reny (ETB, 2015) Implementation of Reduced Form Auctions: A Simple Approach and a New Characterization 
 
 <img width="574" alt="image" src="https://github.com/user-attachments/assets/4405ed25-894a-46a5-8370-68520f49fbf9" />
 
@@ -37,7 +38,7 @@ Introduced the criterion of stochastic dominance as a criterion of implementabil
 
 <img width="494" alt="image" src="https://github.com/user-attachments/assets/633bb486-b274-4701-97e7-173ad77b7c6d" />
 
-> Border, K. (2007): “Reduced Form Auctions Revisited,” Economic Theory 31(1), 167-181.
+> Border  (ET, 2007) Reduced Form Auctions Revisited 
 
 If P is a reduced form, then it satisfies the MRM (Maskin-Riley-Matthews-Border) condition.
 
@@ -50,7 +51,7 @@ This constraint ensures that the auction is feasible and respects the rules of p
 
 # Bayesian Incentive Compatibility (BIC) and Dominant Strategy Incentive Compatibility (DIC)
 
-> *Manelli, A. and D. Vincent (2010): “Bayesian and Dominant Strategy Implementation in the Independent, Private Values Model,” Econometrica 78(6), 1905-1939.
+> *Manelli & Vincent (ECMA, 2010) Bayesian and Dominant Strategy Implementation in the Independent, Private Values Model 
 
 Under private, independent valuation and linear utility, BIC mechanism can be achieved by DIC mechanism, generating the same probability of transaction and expected payment.
 
@@ -58,7 +59,7 @@ DIC: reporting truthfully is **unconditionally** optimal (always better than any
 
 BIC: **conditional** on others report truthfully, reporting truthfully maximizes agent's expected utility given true value.
 
-> *Moldovanu, B., A. Gershkov, and X. Shi (2011): “Bayesian and Dominant Strategy Implementation Revisited, mimeo, University of Bonn.
+> *Moldovanu et al. (2011) Bayesian and Dominant Strategy Implementation Revisited 
 
 
 

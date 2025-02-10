@@ -9,6 +9,8 @@ collection: portfolio
 2. How does marriage change people's consumption? On what category do each partner changes spending proportion?
 3. Reasons for divorce and empirical evidence?
 4. Reasons for demand for sons? Veryfing hypotheses of Dahl & Moretti (RES, 2008)?
+5. Might the biased sex ratios in favor of males in China be affecting the marriage market and creating brideprice pressures (Anderson, 2007)?
+6. Does economic development render women less productive and decrease the demand for wives? (Anderson, 2007)
 
 
 # Asset in Marriage
@@ -85,3 +87,9 @@ This paper investigates the impact of unilateral divorce law, focusing on “who
 > Dahl & Moretti (RES, 2008) [The Demand for Sons](https://econweb.ucsd.edu/~gdahl/papers/demand-for-sons.pdf)
 
 This paper finds that child’s gender matters for shotgun marriages. Fathers who find out during pregnancy that their child will be a boy are more likely to marry their partner before delivery than those who find out that their child will be a girl. Also, the number of children is significantly higher in families with a first-born girl. One potential hypothesis is that parents (perhaps fathers in particular) have a preference for living with and spending time with sons over daughters. Another is that unbiased fathers decide to marry their partner if she has boys, not because they prefer boys over girls but because they believe that an absentee father hurts sons more than daughters (role model hypothesis). The third is that fathers have other comparative advantages in raising sons versus daughters (technology hypothesis), or girls cost more to raise in time and money, so that the surplus associated with a potential marriage is larger with sons. 
+
+# Brideprice
+
+> Anderson (JEP, 2007)  [The Economics of Dowry and Brideprice](https://doi.org/10.1257/jep.21.4.151)
+
+This paper provides a comprehensive review of the dowry and brideprice action across the world and in different historical periods. The general pattern seems to be that brideprice exists more frequently in primitive, tribal, and often nomadic societies, typically associated with reduced social stratification, but societies which do practice the custom are typically developed enough to own some form of property to transfer at the time of marriage. Brideprice-paying societies have also been associated with a strong female role in agriculture. It is also relatively constant across families of different income levels, do not vary with the rank of the wife in polygynous marriages. However, relative to brideprices, the amount of dowry varies substantially and tends to be negotiated on an individual basis.

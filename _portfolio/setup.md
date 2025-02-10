@@ -1,9 +1,10 @@
 ---
-title: "When an Economist Sets Up Stata on a New Computer"
+title: "When an Economist Sets Up on a New Device"
 excerpt: "Common Commands"
 collection: portfolio
 ---
 
+# Stata
 
 ```code
 ssc install estout
@@ -13,3 +14,6 @@ ssc install rdrobust
 ssc install xtevent
 ssc install outreg2
 ```
+# Latex
+
+\usepackage{amsmath, mathrsfs,mathtools,mathptmx,amssymb}

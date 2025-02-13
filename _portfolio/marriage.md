@@ -93,3 +93,13 @@ This paper finds that child’s gender matters for shotgun marriages. Fathers wh
 > Anderson (JEP, 2007)  [The Economics of Dowry and Brideprice](https://doi.org/10.1257/jep.21.4.151)
 
 This paper provides a comprehensive review of the dowry and brideprice action across the world and in different historical periods. The general pattern seems to be that brideprice exists more frequently in primitive, tribal, and often nomadic societies, typically associated with reduced social stratification, but societies which do practice the custom are typically developed enough to own some form of property to transfer at the time of marriage. Brideprice-paying societies have also been associated with a strong female role in agriculture. It is also relatively constant across families of different income levels, do not vary with the rank of the wife in polygynous marriages. However, relative to brideprices, the amount of dowry varies substantially and tends to be negotiated on an individual basis.
+
+
+# Fertility
+
+> Barro & Becker (ECMA, 1989) [Fertility Choice in a Model of Economic Growth](https://doi.org/10.2307/1912563)
+
+This paper treats fertility as an endogeneous choice of parents, and studies the determination of population growth through endogeneous fertility decisions. It finds that cost of raising children determines the overall level of descendants (level of population). Fertility rates determines the relative number of descendants in different generations (rate of population growth). The paper also finds that fertility and interest rates are positively correlated. Increase in cost also raises steady-state per capita capital stocks.
+
+
+

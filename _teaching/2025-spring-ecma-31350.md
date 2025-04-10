@@ -10,3 +10,4 @@ location: "Chicago, US"
 ---
 My responsibilities are as follows and you may find my TA discussion notes [here](https://nbviewer.jupyter.org/github/laurenqu/laurenqu.github.io/blob/master/files/teaching/Linear_Regression_Tutorial.ipynb):
 TBA
+

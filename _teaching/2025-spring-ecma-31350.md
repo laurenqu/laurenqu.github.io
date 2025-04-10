@@ -8,6 +8,5 @@ exert:
 date: 03/24/2025 - 05/31/2025
 location: "Chicago, US"
 ---
-My responsibilities are as follows and you may find my TA discussion notes [here](https://laurenqu.github.io/files/teaching/Linear_Regression_Tutorial.ipynb):
+My responsibilities are as follows and you may find my TA discussion notes [here](https://nbviewer.jupyter.org/github/laurenqu/laurenqu.github.io/blob/master/files/teaching/Linear_Regression_Tutorial.ipynb):
 TBA
-

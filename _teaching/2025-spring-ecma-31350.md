@@ -2,7 +2,7 @@
 title: "ECMA 31350"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2025-winter-ecma-31350
+permalink: /teaching/2025-spring-ecma-31350
 venue: "University of Chicago, Department of Economics"
 exert: 
 date: 03/24/2025 - 05/31/2025

@@ -181,10 +181,13 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  notes:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  blogs:
     output: true
     permalink: /:collection/:path/
 

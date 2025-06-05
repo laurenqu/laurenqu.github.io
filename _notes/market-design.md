@@ -2,6 +2,9 @@
 title: "Market Design"
 excerpt: ""
 collection: notes
+permalink: /notes/marketdesign
+layout: single
+author_profile: true
 ---
 
 # Inefficient Market

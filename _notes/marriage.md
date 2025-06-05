@@ -2,6 +2,9 @@
 title: "Marriage Research"
 excerpt: "Economics Literature about This Confusing Human Interaction"
 collection: notes
+permalink: /notes/marriage
+layout: single
+author_profile: true
 ---
 # Qs of Interest:
 

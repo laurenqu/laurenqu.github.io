@@ -2,6 +2,9 @@
 title: "When an Economist Sets Up on a New Device"
 excerpt: "Common Commands"
 collection: notes
+permalink: /notes/setup
+layout: single
+author_profile: true
 ---
 
 # Stata

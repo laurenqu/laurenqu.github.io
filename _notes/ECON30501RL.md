@@ -3,7 +3,7 @@ title: "Topics in Theoretical Economics Reading List"
 excerpt: "From Uchicago Economics 30501"
 collection: notes
 excerpt: ""
-permalink: /notes/education
+permalink: /notes/ECON30501RL
 layout: single
 author_profile: true
 ---

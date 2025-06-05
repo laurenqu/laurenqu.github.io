@@ -2,6 +2,9 @@
 title: "(Household) Production and Growth Research"
 excerpt: ""
 collection: notes
+permalink: /notes/productiongrowth
+layout: single
+author_profile: true
 ---
 
 

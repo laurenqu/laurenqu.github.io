@@ -1,9 +1,9 @@
 ---
 title: "Topics in Theoretical Economics Reading List"
 excerpt: "From Uchicago Economics 30501"
-permalink: /notes/EconTheoryRL
-type: "theory"
+collection: notes
 ---
+
 # Mechanism Design
 
 ## Mechanism Design under Quasi-Linear Preferences

@@ -1,7 +1,7 @@
 ---
 title: "When an Economist Sets Up on a New Device"
 excerpt: "Common Commands"
-collection: portfolio
+collection: notes
 ---
 
 # Stata

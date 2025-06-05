@@ -1,5 +1,5 @@
 ---
-title: "ECMA 33603, Introduction to Macroeconomics and Financial Frictions (Teaching Assistant, 2025 Winter)"
+title: "ECMA 33603, Introduction to Macroeconomics and Financial Frictions (Teaching Assistant)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-winter-ecma-33603

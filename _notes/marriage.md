@@ -1,7 +1,7 @@
 ---
 title: "Marriage Research"
 excerpt: "Economics Literature about This Confusing Human Interaction"
-collection: portfolio
+collection: notes
 ---
 # Qs of Interest:
 

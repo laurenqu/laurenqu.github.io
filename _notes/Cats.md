@@ -2,7 +2,7 @@
 title: "Observational Study of Cat Grooming and Behavior"
 excerpt: "The two domestic cats are really named exactly as Cat 1 and Cat 2."
 
-collection: portfolio
+collection: notes
 ---
 
 

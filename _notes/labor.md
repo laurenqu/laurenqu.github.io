@@ -1,7 +1,7 @@
 --- 
 title: "Labor Economics"
 excerpt: ""
-collection: portfolio
+collection: notes
 ---
 
 # Indivisible Labor

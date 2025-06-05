@@ -1,7 +1,7 @@
 ---
 title: "Economics of Education"
-collection: portfolio
-excerpt:
+collection: notes
+excerpt:""
 ---
 
 

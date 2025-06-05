@@ -8,5 +8,6 @@ exert:
 date: 2025-03-24
 location: "Chicago, US"
 ---
-You may find my TA discussion notes [here](https://nbviewer.jupyter.org/github/laurenqu/laurenqu.github.io/blob/master/files/teaching/Linear_Regression_Tutorial.ipynb).
+
+TA discussion notes [here](https://nbviewer.jupyter.org/github/laurenqu/laurenqu.github.io/blob/master/files/teaching/Linear_Regression_Tutorial.ipynb).
 

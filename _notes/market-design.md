@@ -1,7 +1,7 @@
 ---
 title: "Market Design"
 excerpt: ""
-collection: portfolio
+collection: notes
 ---
 
 # Inefficient Market

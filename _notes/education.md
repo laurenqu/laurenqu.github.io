@@ -2,9 +2,7 @@
 title: "Economics of Education"
 collection: notes
 excerpt: ""
-type: "education"
 permalink: /notes/education
-date: 2025-06-04
 ---
 
 

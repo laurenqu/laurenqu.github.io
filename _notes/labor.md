@@ -2,6 +2,9 @@
 title: "Labor Economics"
 excerpt: ""
 collection: notes
+permalink: /notes/labor
+layout: single
+author_profile: true
 ---
 
 # Indivisible Labor

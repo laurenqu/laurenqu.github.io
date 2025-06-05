@@ -15,10 +15,9 @@ I hold a B.A. in Economics from Waseda University and a B.A. in Statistics from 
 Economics
 ======
 Research interests: 
-- Macroeconomics: heterogeneity, unemployment, search & match model
-- Labor Economics: human capital accumulation, skills, education, gaps
-- Household Finance: behavior change, intra-household distribution
-- Family Economics: marriage and divorce
+Broadly: Economic Theory, Labor Economics, Household Finance
+
+Especially: Mechanism & Info Design; Marriage & Divorce;  Heterogeneity; Unemployment; Search & Match Model; Education and Skills
 
 Statistics
 ======

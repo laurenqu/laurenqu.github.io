@@ -2,6 +2,10 @@
 title: "Topics in Theoretical Economics Reading List"
 excerpt: "From Uchicago Economics 30501"
 collection: notes
+excerpt: ""
+permalink: /notes/education
+layout: single
+author_profile: true
 ---
 
 # Mechanism Design

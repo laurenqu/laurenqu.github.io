@@ -1,23 +1,21 @@
-# main links links
 main:
-  #- title: "Publications"
-    #url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   - title: "Ongoing"
-    url: /talks/    
-    
+    url: /talks/
+
   - title: "CV"
     url: /files/Lauren_resume_20250124.pdf
-    
+
   - title: "Archive"
     url: /year-archive/
-    
+
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
 
   - title: "Notes"
     url: /notes/
-    
+
   - title: "Blogs"
     url: /blogs/
-    

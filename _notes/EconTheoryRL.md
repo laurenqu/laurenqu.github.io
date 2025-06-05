@@ -2,6 +2,7 @@
 title: "Topics in Theoretical Economics Reading List"
 excerpt: "From Uchicago Economics 30501"
 permalink: /notes/EconTheoryRL.md/
+layout: single
 ---
 # Mechanism Design
 

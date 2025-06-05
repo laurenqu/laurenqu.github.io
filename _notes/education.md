@@ -3,6 +3,8 @@ title: "Economics of Education"
 collection: notes
 excerpt: ""
 permalink: /notes/education
+layout: single
+author_profile: true
 ---
 
 

@@ -11,7 +11,7 @@ author_profile: true
 ## 6/9/2025
 Finishing reading Roth 2018. A well-written landscape of market design and marketplace. Also had a discussion with Dingwen, about my own interpretation of “market design.”  I regard the market design as an abstract perspective, about the long-lived human behavior of matching and allocation, rather than concrete technical details. Cournot competition, monopoly pricing and auction are all others'.
 
-Reviewed the equivalence between arbitrage-free pricing and the existence of an equivalent martingale measure (EMM), and deepened my understanding of the stochastic discount factor (SDF) as the intertemporal marginal rate of substitution in consumption. Explores Merton’s portfolio problem and its associated HJB equation. While I can follow the derivations, I still find myself more intuitively at ease with solving representative-agent intertemporal optimization problems, compared to pricing specific derivative contracts under risk-neutral measures. 
+Reviewed the equivalence between arbitrage-free pricing and the existence of an equivalent martingale measure (EMM), and deepened my understanding of the stochastic discount factor (SDF) as the intertemporal marginal rate of substitution in consumption. Explores Merton’s portfolio problem and its associated HJB equation. While I can follow the derivations, I still find myself more intuitively at ease with solving representative-agent intertemporal optimization problems, compared to pricing specific derivative contracts under risk-neutral measures. Measure theory is useful anyways.
 
 ## 6/5/2025
 
